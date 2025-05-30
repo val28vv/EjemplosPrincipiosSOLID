@@ -30,6 +30,4 @@ public class EjemploComoNoOpenClose {
             return "Figura no válida";
         }
     }
-
-    //ahora supongamos que quiero agregar 2 figuras nuevas (lagarto y spock), tengo que agregar un total de 10 bloques if
 }
